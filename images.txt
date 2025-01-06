@@ -1,3 +1,4 @@
+k8s.gcr.io/kube-state-metrics/kube-state-metrics
 docker.io/kubecube/audit:v1.2.0
 docker.io/kubecube/cloudshell:v1.2.6
 docker.io/kubecube/webconsole:v1.3.0
